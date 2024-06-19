@@ -1,0 +1,15 @@
+Crosai, object grabing and object pick up blueprints located BP First Person Character.
+
+Substrate mixing blueprint: Mixing Cart
+
+Substrate Cooling (pasteurisation) interaction : Oven blueprint
+
+Substrate Cooling (pasteurisation) performance calculation: TemperatureWidget
+
+Watering and Venting Interaction AND Calculator: ControllPanel
+
+Mushroom growing: MushroomGrowth 
+
+Additional: Level Bluepirnt
+
+!!!Needs performance optimising!!!
