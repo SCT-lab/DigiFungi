@@ -3,7 +3,7 @@
 ![DigiFungi Visual Example](https://github.com/SCT-lab/DigiFungi/blob/main/images/Watering1.png)
 
 ## What is DigiFungi?
-DigiFungi is a educational game for learning about button mushroom cultivations, developed in Unreal Engine 5.3.2 by the Social Creative Technologies lab at Wageningen University and Research under consultation with mushroom growing experts and stakeholders.
+DigiFungi is a educational game for learning the key stages involved in button mushroom cultivation, developed in Unreal Engine 5.3.2 by the Social Creative Technologies lab at Wageningen University and Research under consultation with mushroom growing experts and stakeholders.
 
 ## Features
 * Stubstrate preparation - involving correct ingredient mixtures, temperature control
@@ -27,6 +27,7 @@ DigiFungi Requires Unreal Engine 5.3.2 - download the files and add them to the 
 **All files over 100MB have been compressed and require unzipping**
 
 Development work by Reda Šimbelytė, project managed by Will Hurst (will.hurst@wur.nl)
+The project was funded by Wageningen University and Research Coporate Value Creation
 
 [Link to Social Creative Technologies Lab @WUR](https://www.linkedin.com/company/sct-lab)
 
