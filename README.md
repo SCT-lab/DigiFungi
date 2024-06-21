@@ -17,9 +17,8 @@ DigiFungi is a educational game for learning the key stages involved in button m
 DigiFungi Requires Unreal Engine 5.3.2 - download the files and add them to the Contents folder of the open project. The game can then be built for a stand-alone .exe application for sharing
 
 ## Game play examples
-<p align="center">
-![DigiFungi Visual Example1](https://github.com/SCT-lab/DigiFungi/blob/main/images/Watering1.png width="800")
-</p>
+
+![DigiFungi Visual Example1](https://github.com/SCT-lab/DigiFungi/blob/main/images/Watering1.png)
 ![DigiFungi Visual Example2](https://github.com/SCT-lab/DigiFungi/blob/main/images/Cooling1.png)
 ![DigiFungi Visual Example3](https://github.com/SCT-lab/DigiFungi/blob/main/images/Scene.png)
 ![DigiFungi Visual Example4](https://github.com/SCT-lab/DigiFungi/blob/main/images/SubstrateMix.png)
