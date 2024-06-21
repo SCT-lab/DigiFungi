@@ -1,4 +1,4 @@
-# DigiFungi
+# DigiFungi v1.2
 
 ![DigiFungi Visual Example](https://github.com/SCT-lab/DigiFungi/blob/main/images/Watering1.png)
 
