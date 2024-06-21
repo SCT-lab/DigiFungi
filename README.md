@@ -38,8 +38,7 @@ Overview of the game environment. There are three floors. The ground floor conta
 
 **All files over 100MB have been compressed and require unzipping**
 
-Development work by Reda Šimbelytė, project managed by Will Hurst (will.hurst@wur.nl)
-The project was funded by Wageningen University and Research Coporate Value Creation
+Development work by Reda Šimbelytė, project managed by Will Hurst (will.hurst@wur.nl). The project was funded by Wageningen University and Research Coporate Value Creation.
 
 <p align="center">
   <a href="https://www.linkedin.com/company/sct-lab"><img src="https://github.com/SCT-lab/DigiFungi/blob/main/images/SCT-WUR.png" alt="SCT Lab" width="100"></a>
